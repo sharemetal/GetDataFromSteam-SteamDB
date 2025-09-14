@@ -15,7 +15,6 @@
 // @updateURL      https://raw.githack.com/Sak32009/GetDataFromSteam-SteamDB/main/dist/sak32009-get-data-from-steam-steamdb.meta.js
 // @match          *://steamdb.info/app/*
 // @match          *://steamdb.info/depot/*
-// @match          *://store.steampowered.com/app/*
 // @require        https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js
 // @require        https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js
 // @require        https://cdn.jsdelivr.net/npm/fflate@0.8.2/umd/index.js
