@@ -12,7 +12,7 @@
 // @source       github:Sak32009/GetDataFromSteam-SteamDB
 // @supportURL   https://github.com/Sak32009/GetDataFromSteam-SteamDB/issues
 // @downloadURL  https://rawcdn.githack.com/sharemetal/GetDataFromSteam-SteamDB/f84f5810362525bf6620490c14a7ffd4cabf84d0/dist/sak32009-get-data-from-steam-steamdb.user.js
-// @updateURL    https://raw.githack.com/Sak32009/GetDataFromSteam-SteamDB/main/dist/sak32009-get-data-from-steam-steamdb.meta.js
+// @updateURL    https://rawcdn.githack.com/sharemetal/GetDataFromSteam-SteamDB/5fb5d8308b4e4fa1e3a824f5039f94f1a45a0006/dist/sak32009-get-data-from-steam-steamdb.meta.js
 // @match        *://steamdb.info/app/*
 // @match        *://steamdb.info/depot/*
 // @require      https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js
